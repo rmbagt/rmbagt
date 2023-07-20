@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](wp.png)
+<img src="wp.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Reynaldo+Marchell;A+passionate+CS+Student+%F0%9F%98%8A)](https://git.io/typing-svg)
 
