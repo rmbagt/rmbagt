@@ -17,10 +17,10 @@
 
 <div align="center">
 <table>
-<tr><img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldomarchell&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reynaldomarchell" /></tr>
+<tr><img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldomarchell&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reynaldomarchell"/></tr>
 
-<tr>&nbsp;<img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&locale=en" alt="reynaldomarchell" /></tr>
+<tr>&nbsp;<img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&locale=en" alt="reynaldomarchell"/></tr>
 
-<tr><img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell" /></tr>
+<tr><img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell"/></tr>
 </table>
 </div>
