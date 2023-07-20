@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://pin.it/1tgg2qT">
+
+![MasterHead](wp.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Reynaldo+Marchell;A+passionate+CS+Student+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-**I love anime and manga**
+<h3 align="center" style="font-family: 'Product Sans', sans-serif;"><b>I love anime and manga</b></h3>
 
 </div>
 
