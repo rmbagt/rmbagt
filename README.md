@@ -1,9 +1,8 @@
 <img align="center" src="https://i.gifer.com/2swA.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Reynaldo+Marchell;A+passionate+CS+Student+%3A))](https://git.io/typing-svg)
 
 - ⚡ Fun fact **I love anime and manga**
-
-### More About Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
