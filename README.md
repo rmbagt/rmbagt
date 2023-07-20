@@ -5,6 +5,8 @@
 
 </div>
 
+<details>
+<summary><samp><b>More Info</b></samp></summary>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reynaldo-marchell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reynaldo-marchell" height="30" width="40" /></a>
@@ -24,3 +26,4 @@
 <tr><img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell"/></tr>
 </table>
 </div>
+</details>
