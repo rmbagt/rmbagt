@@ -20,10 +20,10 @@
 <div align="center">
 <table>
 <tr><img height="140px" style="padding: 5px;" src="https://https://github-readme-stats-sigma-five.vercel.app
-/api/top-langs?username=reynaldomarchell&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reynaldomarchell"/></tr>
+/api/top-langs/?username=reynaldomarchell&show_icons=true&theme=tokyonight&layout=compact" alt="reynaldomarchell"/></tr>
 
 <tr><img height="140px" style="padding: 5px;" src="https://https://github-readme-stats-sigma-five.vercel.app
-/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&locale=en" alt="reynaldomarchell"/></tr>
+/api?username=reynaldomarchell&show_icons=true&theme=tokyonight" alt="reynaldomarchell"/></tr>
 
 <tr><img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell"/></tr>
 </table>
