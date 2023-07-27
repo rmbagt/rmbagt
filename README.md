@@ -19,11 +19,9 @@
 
 <div align="center">
 <table>
-<tr><img height="140px" style="padding: 5px;" src="https://https://https://github-readme-stats-reynaldomarchell.vercel.app
-/api/top-langs/?username=reynaldomarchell&show_icons=true&theme=tokyonight&layout=compact" alt="reynaldomarchell"/></tr>
+<tr><img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reynaldomarchell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="reynaldomarchell"/></tr>
 
-<tr><img height="140px" style="padding: 5px;" src="https://https://https://github-readme-stats-reynaldomarchell.vercel.app
-/api?username=reynaldomarchell&show_icons=true&theme=tokyonight" alt="reynaldomarchell"/></tr>
+<tr><img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/></tr>
 
 <tr><img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell"/></tr>
 </table>
