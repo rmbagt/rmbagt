@@ -19,11 +19,23 @@
 
 <div align="center">
 <table>
-<tr><img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reynaldomarchell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="reynaldomarchell"/></tr>
+<tr>
+<!-- <img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reynaldomarchell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="reynaldomarchell"/> -->
 
-<tr><img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/></tr>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldomarchell&theme=tokyonight&show_icons=true&rank_icon=github&)]
 
-<tr><img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell"/></tr>
+</tr>
+
+<tr>
+<!-- <img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldomarchell&layout=compact&theme=tokyonight&langs_count=8)]
+
+</tr>
+
+<tr>
+<img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=dark" alt="reynaldomarchell"/>
+</tr>
 </table>
 </div>
 </details>
