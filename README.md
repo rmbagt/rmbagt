@@ -29,11 +29,11 @@
 </tr>
 
 <tr>
-<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/>
+<img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=reynaldomarchell&theme=tokyonight" alt="reynaldomarchell"/>
 </tr>
 
 <tr>
-<img height="140px" style="padding: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldomarchell&theme=tokyonight" alt="reynaldomarchell"/>
+<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/>
 </tr>
 
 <!-- <tr>
