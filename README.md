@@ -33,7 +33,7 @@
 </tr>
 
 <tr>
-<img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=reynaldomarchell&theme=tokyonight" alt="reynaldomarchell"/>
+<img height="180px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=reynaldomarchell&theme=tokyonight" alt="reynaldomarchell"/>
 </tr>
 <!-- <tr>
 <img height="140px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=reynaldomarchell&theme=tokyonight" alt="reynaldomarchell"/>
