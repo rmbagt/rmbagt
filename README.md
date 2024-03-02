@@ -8,19 +8,6 @@
 <details>
 <summary><b>More Info</b></summary>
 
-<h1 style="margin-top: 30px; border: none">Connect with me</h2>
-
-<div>
-
-<a href="https://linkedin.com/in/reynaldo-marchell" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/reynaldo_marchellba" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://stackoverflow.com/users/19653809" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-<a href="https://www.hackerrank.com/reynaldo_adji" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
-<a href="https://codeforces.com/profile/aldoo" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://www.leetcode.com/reynaldomarchellba" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-
-</div>
-
 <h1 style= "margin-top: 30px; border: none">Programming Languages</h1>
 <div align="left">
 
@@ -73,7 +60,20 @@
 
 </div>
 
-<h1 style= "margin-top: 30px; border: none">Stats & Activities</h1>
+<h1 style="margin-top: 30px; border: none">Connect with me</h2>
+
+<div>
+
+<a href="https://linkedin.com/in/reynaldo-marchell" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/reynaldo_marchellba" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://stackoverflow.com/users/19653809" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="https://www.hackerrank.com/reynaldo_adji" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+<a href="https://codeforces.com/profile/aldoo" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
+<a href="https://www.leetcode.com/reynaldomarchellba" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+
+</div>
+
+<h1 style= "margin-top: 30px; border: none">Stats</h1>
 <div align="center">
 
 <table>
