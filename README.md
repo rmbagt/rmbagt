@@ -8,37 +8,6 @@
 <details>
 <summary><b>More Info</b></summary>
 
-<h1 style="margin-top: 30px; border: none">Connect with me</h2>
-
-<div style="display: flex; gap: 4px; flex-wrap: wrap;">
-
-<a href="https://linkedin.com/in/reynaldo-marchell" target="blank">
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://stackoverflow.com/users/19653809" target="blank">
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-</a>
-<a href="https://instagram.com/reynaldo_marchellba" target="blank">
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
-<a href="https://www.hackerrank.com/reynaldo_adji" target="blank">
-
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-</a>
-<a href="https://codeforces.com/profile/aldoo" target="blank">
-
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-</a>
-<a href="https://www.leetcode.com/reynaldomarchellba" target="blank">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-</a>
-
-</div>
-
 <h1 style= "margin-top: 30px; border: none">Programming Languages</h1>
 <div align="left">
 
@@ -91,8 +60,27 @@
 
 </div>
 
+<h1 style="margin-top: 30px; border: none">Connect with me</h2>
+
+<div align="left" style="display: flex; gap: 4px; flex-wrap: wrap;">
+
+<a href="https://linkedin.com/in/reynaldo-marchell" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://stackoverflow.com/users/19653809" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+
+<a href="https://instagram.com/reynaldo_marchellba" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+
+<a href="https://www.hackerrank.com/reynaldo_adji" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+
+<a href="https://codeforces.com/profile/aldoo" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
+
+<a href="https://www.leetcode.com/reynaldomarchellba" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+
+</div>
+
 <h1 style= "margin-top: 30px; border: none">Stats & Activities</h1>
 <div align="center">
+
 <table>
 <tr>
 <img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/>
@@ -105,10 +93,10 @@
 <tr>
 <img height="500px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=reynaldomarchell&theme=tokyonight&layout=compact" alt="reynaldomarchell"/>
 </tr>
-
 </table>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freynaldomarchell&countColor=%23263759)
 
 </div>
+
 </details>
