@@ -62,7 +62,8 @@
 
 <h1 style="margin-top: 30px; border: none">Connect with me</h2>
 
-<div style="display: flex; gap: 4px; flex-wrap: wrap; width: 100%">
+<div>
+  <p align = "center">
 
 <a href="https://linkedin.com/in/reynaldo-marchell" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -76,6 +77,7 @@
 
 <a href="https://www.leetcode.com/reynaldomarchellba" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
 
+  </p>
 </div>
 
 <h1 style= "margin-top: 30px; border: none">Stats & Activities</h1>
