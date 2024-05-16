@@ -8,7 +8,7 @@
 <details>
 <summary><b>More Info</b></summary>
 
-<h1 style= "margin-top: 30px; border: none">Programming Languages</h1>
+<h1 style= "margin-top: 30px; border: none">🖥️ Programming Languages</h1>
 <div align="left">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@
 
 </div>
 
-<h1 style= "margin-top: 30px; border: none">Libraries & Frameworks</h1>
+<h1 style= "margin-top: 30px; border: none">📖 Libraries & Frameworks</h1>
 <div align="left">
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -41,7 +41,7 @@
 
 </div>
 
-<h1 style= "margin-top: 30px; border: none">Databases</h1>
+<h1 style= "margin-top: 30px; border: none">💾 Databases</h1>
 <div align="left">
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,18 +49,19 @@
 
 </div>
 
-<h1 style= "margin-top: 30px; border: none">Tools</h1>
+<h1 style= "margin-top: 30px; border: none">⛏️ Tools</h1>
 <div align="left">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<h1 style="margin-top: 30px; border: none">Connect with me</h2>
+<h1 style="margin-top: 30px; border: none">🤙 Connect with me</h2>
 
 <div>
 
@@ -73,7 +74,7 @@
 
 </div>
 
-<h1 style= "margin-top: 30px; border: none">Stats</h1>
+<h1 style= "margin-top: 30px; border: none">📈 Stats</h1>
 <div align="center">
 
 <table>
