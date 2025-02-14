@@ -1,7 +1,7 @@
 <div align="center">
 <img width="700" src="wp.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Reynaldo+Marchell;A+passionate+CS+Student+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Your+typical+degraded+CS+students)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,6 +52,7 @@
 <h1 style= "margin-top: 30px; border: none">⛏️ Tools</h1>
 <div align="left">
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -79,11 +80,11 @@
 
 <table>
 <tr>
-<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reynaldomarchell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="reynaldomarchell"/>
+<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rmbagt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="rmbagt"/>
 </tr>
 
 <tr>
-<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reynaldomarchell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="reynaldomarchell"/>
+<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmbagt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rmbagt"/>
 </tr>
 
 <tr>
@@ -95,4 +96,4 @@
 
 </details>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freynaldomarchell&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frmbagt&countColor=%23263759)
