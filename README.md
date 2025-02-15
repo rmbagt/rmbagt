@@ -1,7 +1,7 @@
 <div align="center">
 <img width="700" src="wp.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Your+typical+degraded+CS+students)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=500&lines=I'm+just+your+typical+degraded+CS+students)](https://git.io/typing-svg)
 
 </div>
 
